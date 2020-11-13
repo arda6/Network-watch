@@ -5,7 +5,7 @@ os.system("figlet Hoşgeldiniz.")
 os.system("pip3 install requests")
 os.system("clear")
 os.system("figlet Hoşgeldiniz")
-pirnt("""
+print("""
 
 Coded By Bl4P
 Tüm Sorumluluğu Kabul Ettiniz
