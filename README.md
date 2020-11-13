@@ -1,3 +1,4 @@
 # Network-watch
-Ussage 
-Only start program
+Usage 
+Only start program. 
+python3 aganalizi.py
